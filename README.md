@@ -31,7 +31,7 @@ At [Snappet](http://www.snappet.org), we care about data and we care about code.
 
 * What approaches did you use when completing the challenge?  Do you use any CSS methodologies or techniques to help this approach?
 
-  -- I always try to build write a easily extendable code that can be easily understandable by other developers also easy to maintain the code. I used SASS preprocessor so and BEM methodology so that it will be easy to maintain the code as well as the class name itself tells the purpose. I decided to create in component based model and I used React, SASS and BEM.
+  -- I always try to build write a easily extendable code that can be easily understandable by other developers also easy to maintain the code. I used SASS preprocessor and BEM methodology so that it will be easy to maintain the code as well as the class name itself tells the purpose. I decided to create as component based model so I used React, SASS and BEM.
 
 
 * If you had more time to spend on the challenge, what would you like to add to your solution?
