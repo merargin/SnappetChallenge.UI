@@ -21,12 +21,29 @@ At [Snappet](http://www.snappet.org), we care about data and we care about code.
 * We understand you’re developing from a PNG and not a Sketch or Photoshop file – don’t get too hung up on exact colours of text or margins between elements.
 * Don’t overcomplicate the JavaScript part of the task.  We just want to see that you know how to write basic JS. Feel free to use jQuery but do not use jQuery libraries such as [select2](https://select2.github.io/).
 
+* How to access
+----------------
+* npm install
+* npm start
+* open http://localhost:8001 in browser
+
 # Questions
 
 * What approaches did you use when completing the challenge?  Do you use any CSS methodologies or techniques to help this approach?
-* If you had more time to spend on the challenge, what would you like to add to your solution?
-* What browsers should your solution work in?  What will happen if we test it in older browsers?
-* What's your favourite programming language? Why?
 
-Thank you for your time, we look forward to hearing from you!  
+  -- I always try to build write a easily extendable code that can be easily understandable by other developers also easy to maintain the code. I used SASS preprocessor so and BEM methodology so that it will be easy to maintain the code as well as the class name itself tells the purpose. I decided to create in component based model and I used React, SASS and BEM.
+
+
+* If you had more time to spend on the challenge, what would you like to add to your solution?
+  -- I would add test cases to test whether the combo functionality is working and I would separate SCSS files into multiple files(eg: header, content..)
+
+
+* What browsers should your solution work in?  What will happen if we test it in older browsers?
+  -- It works in all browser as it was created using Babel. It will take care of creating code for older browsers.
+
+
+* What's your favourite programming language? Why?
+  -- My favourite programming language is JavaScript. From the beginning of my career, I am working as a FrontEnd developer and I am working in JavaScript. It is very very easy to develop code as we can write code in browser console. It does not require any compilation like Java. UI is the important part that will attract the users to use it. Using JS, we can do lot of stuffs like Video Streaming, Offline, Animation, Transitions and so on.
+
+Thank you for your time, we look forward to hearing from you!
 Thanks to the [JustEat Challenge](https://github.com/justeat/JustEat.Recruitment.UI) for providing inspiration.
